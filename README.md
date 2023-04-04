@@ -1,2 +1,2 @@
-# latex-docker-image
-My LaTeX docker image
+# Latex docker image
+This repository contains the docker file for configuring a LaTeX environment.
